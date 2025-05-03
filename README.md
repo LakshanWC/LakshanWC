@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="welcome gif" width="500"/>
+  <img src="https://media1.tenor.com/m/Kt2S0xxB89EAAAAd/driving-driving-on-a-motorway.gif" alt="welcome gif" width="500"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Lakshan Weliwita</h1>
