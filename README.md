@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem12d2NoaWJ6d3JxbnQ1Nm9vOXA0NmQ0MjlzMmt2dnZ2eGRzaXQ2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VRxjB5QCnOFp4FcyFG/giphy.gif" alt="welcome gif" height="200" width="1000"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem12d2NoaWJ6d3JxbnQ1Nm9vOXA0NmQ0MjlzMmt2dnZ2eGRzaXQ2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VRxjB5QCnOFp4FcyFG/giphy.gif" alt="welcome gif" height="300" width="1000"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Lakshan Weliwita</h1>
